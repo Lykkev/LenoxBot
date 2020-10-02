@@ -1,5 +1,5 @@
 # LenoxBot
-
+[![Run on Repl.it](https://repl.it/badge/github/LenoxBot/LenoxBot)](https://repl.it/github/LenoxBot/LenoxBot)
 > LenoxBot is a Discord bot that offers many cool new features to your Discord server!
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64a1b4026ff74584b91c5e78dce50854)](https://app.codacy.com/app/LenoxBot/LenoxBot?utm_source=github.com&utm_medium=referral&utm_content=LenoxBot/LenoxBot&utm_campaign=Badge_Grade_Dashboard)
